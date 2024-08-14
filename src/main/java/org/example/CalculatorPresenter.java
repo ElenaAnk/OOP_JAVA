@@ -24,9 +24,9 @@ public class CalculatorPresenter {
                 model.calculatorAdd(x,y);
                 break;
 
-            case "*":{
+            case "*":
                 model.calculatorMultiply(x,y);
-                break;}
+                break;
             case "/":
                 model.calculatorDivide(x,y);
                 break;
